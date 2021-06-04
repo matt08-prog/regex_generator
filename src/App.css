@@ -1,0 +1,16 @@
+div.App{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+div.Adder{
+    display: inline-block;
+    position: relative;
+    height: 48%;
+    width:30%;
+    background-color: blue;
+    text-align: center;
+     margin: auto auto;
+     overflow: auto;
+}
